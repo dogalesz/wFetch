@@ -10,7 +10,7 @@
 - OS detection (Windows 10/11, build numbers)  
 - Disk usage (total + free space)  
 - Network adapters (active interfaces, friendly names)  
-- GPU detection (via DXGI, no integrated GPUs supported yet!!)  
+- GPU detection
 
 ## 📸 How it looks
 <img width="1480" height="752" alt="image" src="https://github.com/user-attachments/assets/694d1ab9-8da1-4c4f-837e-3a0654b08765" />
@@ -28,7 +28,7 @@ This means you can use, modify(if I drop the source code lol), and share wFetch 
 - wFetch is written purely in C and uses direct Windows APIs for **instantaneous results**.
 
 ## ⚡ Windows System Info Tools Comparison
- Feature                     | **wFetch (Yours)** | Fastfetch        | Neofetch         | Winfetch         |
+ Feature                     | **wFetch** | Fastfetch        | Neofetch         | Winfetch         |
 |------------------------------|-----------------|-----------------|-----------------|-----------------|
 | **Primary Language**         | C               | C               | Bash            | Powershell       |
 | **Supported OS**             | Windows 10/11   | Linux / Win / Mac | Linux / Win / Mac | Windows 10/11    |
