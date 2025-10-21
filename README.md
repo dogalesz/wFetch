@@ -37,4 +37,4 @@ Telepítéshez szükséges feltételek:
 - Windows 10 vagy Windows 11
 - Processzor: Bármilyen x64 vagy x86 arhitektúrájú CPU
 - Memória: 2-8 MB RAM
-- Tárhely: 50-200 KB
+- Tárhely: 150 KB
